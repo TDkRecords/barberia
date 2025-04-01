@@ -1,4 +1,4 @@
-<div class="container-fluid py-5 bg-light">
+<div class="container-fluid py-5">
     <div class="container">
         <div class="text-center mb-5">
             <h1 class="hero-text display-4 fw-bold mb-4">

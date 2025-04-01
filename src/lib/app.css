@@ -1,8 +1,13 @@
+@font-face {
+    font-family: Poppins;
+    src: url("/src/fonts/Poppins/Poppins-ExtraLight.ttf");
+}
+
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #112;
+    background-color: #ccc;
 }
 
 h1,
@@ -46,4 +51,8 @@ textarea::before {
     box-shadow: 0px 0px 6px #139514;
     background-color: #e8bf00;
     color: #e8bf00;
+}
+
+.NavFont {
+    font-family: Poppins, 'Courier New', Courier, monospace;
 }
